@@ -12,7 +12,7 @@ Execute `make build` to create the executable. It will be saved in the `bin/` di
 
 ## How to run
 
-Execute the binary with a file as an argument to get the result.
+Execute the binary with a file as an argument.
 
 The following are the possible arguments:
 
@@ -37,7 +37,7 @@ Chars => 332145
 > ./bin/wcgo -w test.text
 Words => 58164
 
-# Outputs with -c, -l and -w flags
+# Outputs with -b, -l and -w flags
 > ./bin/wcgo test.text
 Bytes => 335041
 Lines => 7144

@@ -3,6 +3,3 @@ build:
 
 clean:
 	rm -rf bin/
-
-test:
-	cd cmd/wcgo/ && pwd && go test -v
